@@ -7,6 +7,8 @@ sitemap: false
 
 # Notes
 
+Provisionally I am saving all of my Qualifying Exam notes and readings here, which can be browsed by category. 
+
 <div>
    {% assign categories = site.categories | sort %}
    {% for category in categories %}

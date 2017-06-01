@@ -5,5 +5,4 @@ permalink: /cv/
 sitemap: false
 ---
 
-# This is where I keep my CV.
-## Is markdown working? 
+# I will attach my CV here eventually. 
