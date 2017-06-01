@@ -1,6 +1,8 @@
 ---
 layout: default
-title: {{ site.name }}
+title: Research
+permalink: /research/
+sitemap: false
 ---
 
-##Ressearch 
+##Research 
