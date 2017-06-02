@@ -4,4 +4,13 @@ layout: default
 <h2>{{ page.title }}</h2>
 <p class="meta">{{ page.date | date_to_string }}</p>
 
+<div class="tags">
+    {% assign sortedCategories = page.categories | sort %}
+    {% for category in sortedCategories %}
+        <span class="tag">
+            <a href="/category/{{ category }}">#{{ category }}</a>
+        </span>
+    {% endfor %}
+</div>
+
 {{ content }}
