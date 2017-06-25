@@ -1,0 +1,6 @@
+TODO
+
+1.The search function isn't working using lunrjs - i think there is a difference between early lunr and late lunr - maybe I could just get old lunr - this worked
+
+2. Fix the Header so it's not so ugly - a tiny one that scrolls down could be consolidated = this is getting better
+3. Create a html tag for definitions, and then figure out how to pull out all definitions onto a certain page - def
