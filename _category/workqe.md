@@ -1,4 +1,4 @@
 ---
 tag: Work QE
-permalink: "/category/work-qe"
+permalink: "/category/Work%20QE"
 ---

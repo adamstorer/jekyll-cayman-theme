@@ -1,4 +1,4 @@
 ---
 tag: Marx
-permalink: "/category/marx"
+permalink: "/category/Marx"
 ---

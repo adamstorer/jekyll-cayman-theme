@@ -1,4 +1,4 @@
 ---
 tag: Theory QE
-permalink: "/category/theory-qe"
+permalink: "/category/Theory%20QE"
 ---

@@ -1,4 +1,4 @@
 ---
 tag: Reading Notes
-permalink: "/category/reading-notes"
+permalink: "/category/Reading%20Notes"
 ---
