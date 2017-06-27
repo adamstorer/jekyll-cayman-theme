@@ -5,4 +5,4 @@ permalink: /cv/
 sitemap: false
 ---
 
-I will attach my CV here eventually.
+Download my CV [here.](https://github.com/adamstorer/adamstorer.github.io/raw/master/Storer_CV.pdf)

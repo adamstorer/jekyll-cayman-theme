@@ -17,4 +17,4 @@ With Adam Reich, I am working on a project studying how minimum wage increases a
 
 ### Health and the Practices of Physicians
 
-As part of an ongoing project using All-Payers Claim Data, I am studying how a range of practices spread among physicians. 
+As part of an ongoing project using All-Payers Claim Data, I am studying how a range of practices spread among physicians.
