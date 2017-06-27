@@ -10,7 +10,7 @@ sitemap: false
 <div id="home">
   <ul class="posts">
     {% for post in site.posts %}
-      <li><span>{{ post.content | jsonify}}</span></li>
+      <li><span>{{ post.content | jsonify }}</span></li>
     {% endfor %}
   </ul>
 </div>

@@ -22,6 +22,6 @@ Once capitalist systems come into being, those who do not start with capital can
 >The so-called primitive accumulation, therefore, is nothing else than the historical process of divorcing the producer from the means of production.
 
 Once capitalism is in effect, this is already the case. In the feudal system, there were all sorts of rules about what a person could do made by guilds. While they are no longer serfs and can do different things, they also lose their protections in a capitalist society.
- <def>primitive accumulation - let's see</def>
+ <def>  primitive accumulation - let's see</def>
 
 ## Chapter 27

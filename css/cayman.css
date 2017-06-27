@@ -135,7 +135,7 @@ header h1 {margin-right: .2rem; margin-top: 0; margin-bottom: .4rem; text-align:
 
 header h2 {text-align: left;font-weight: normal; opacity: 0.7; font-size: 1rem;margin-bottom: -.5rem;line-height: 1; position: relative; top:-.5rem}
 
-header a{ text-align: right;display: inline; float: left;top:.4rem; padding-right: 1rem;}
+header a{ text-align: right;display: inline; float: left;position: relative;top:.4rem; padding-right: 1rem;}
 
 
 .main-content { word-wrap: break-word; margin: 1rem;margin-right: 2rem}
