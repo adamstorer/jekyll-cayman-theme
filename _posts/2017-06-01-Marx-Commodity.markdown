@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Marx and the Commodity"
+title:  "Marx - The Commodity"
 date:   2017-06-01 17:50:00
 categories: ['Marx','Theory QE','Reading Notes']
 ---

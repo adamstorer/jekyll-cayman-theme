@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Marx and Estranged Labor"
-date:   2017-06-01 17:50:00
+date:   2017-06-27 17:50:00
 categories: ['Marx','Work QE','Reading Notes']
 ---
  Access the text [here](https://www.marxists.org/archive/marx/works/1844/manuscripts/labour.htm)

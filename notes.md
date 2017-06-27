@@ -22,7 +22,7 @@ You can also browse by category below.
    {% assign categories = site.categories | sort %}
    {% for category in categories %}
     <span class="tag">
-       <a href="/category/{{ category | first | slugify }}">
+       <a href="/category/{{ category | first }}">
                #{{ category[0] | replace:'-', ' ' }} ({{ category | last | size }})
        </a>
    </span>
