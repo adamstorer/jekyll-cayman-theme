@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Marx and Estranged Labor"
+title:  "Marx - Estranged Labor"
 date:   2017-06-27 17:50:00
 categories: ['Marx','Work QE','Reading Notes']
 ---

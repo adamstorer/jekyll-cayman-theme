@@ -4,6 +4,8 @@ title:  "Why Elites Love Authentic Lowbrow Culture"
 date:   2017-06-05 17:50:00
 categories: ['Culture','Taste']
 published: false
+defs_used:
+
 ---
 Access the article [here](http://journals.sagepub.com/doi/full/10.1177/0003122417710642)
 A 2017 Article in ASR, "Why Elites Love Authentic Lowbrow Culture: Overcoming High-Status Denigration with Outsider Art" by Hahl, Zuckerman, and Kim continues an ongoing debate about "univores" and "omnivore" etc. that begins with Peterson and Berger (1975) and is continuing to be worked on by Amir Goldberg, Omar Lizardo, and a few others.

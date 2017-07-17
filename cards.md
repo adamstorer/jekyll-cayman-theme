@@ -7,10 +7,23 @@ sitemap: false
 
 ### This should be a list of all definitions
 
-<div id="home">
-  <ul class="posts">
+
+<table>
+  <tr>
+  <th>Link</th>
+  <th>Title</th>
+  <th>Date</th>
+  <th>Term</th>
+  <th>Definition</th>
+  </tr>
     {% for post in site.posts %}
-      <li><span>{{ post.content | jsonify }}</span></li>
+      {% for def in post.defs_used %}
+      <tr>
+      <th>Access here[{{post.url}}]</th>
+      <th>{{ post.title}}</th>
+      <th>{{ post.date}}</th>
+      <th>{{ def[0] }}</th>
+      <th>{{ def[1] }}</th>
+      </tr>
+{% endfor %}
     {% endfor %}
-  </ul>
-</div>

@@ -4,4 +4,7 @@ title:  "Clifford Geertz on Thick Description"
 date:   2017-06-22 17:50:00
 categories: ['Geertz','Culture QE','Reading Notes']
 published: true
+defs_used:
+
 ---
+<def>test def: once again</def>
