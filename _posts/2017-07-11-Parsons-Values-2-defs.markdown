@@ -15,9 +15,9 @@ defs_used:
     Cultural System 2: Not an empirical system, because it is abstract. They may exist separately as physical symbols and be transmitted from one empirical action to another
     Cultural System 3: Patterns of regulatory norms cannot be made up of random or unrelated elements. It must have a certain degree of consistency
     Cultural System 4: Patterns of culture whose different parts are interrelated to form value systems, belief systems, and systems of expressive symbols
-     Cognitive mode of value-orientation: Thinking carefully about how certain actions fit within categories and standards
-     Appreciative mode of value-orientation: Standards about the appropriateness or consistency of something, such as a pattern of gratification (I like this type of music)
-     Moral mode of value-orientation: Considering the consequences of actions, and how responsible an individual will feel for the consequences of some action on the social system. 
+    Cognitive mode of value-orientation: Thinking carefully about how certain actions fit within categories and standards
+    Appreciative mode of value-orientation: Standards about the appropriateness or consistency of something, such as a pattern of gratification (I like this type of music)
+    Moral mode of value-orientation: Considering the consequences of actions, and how responsible an individual will feel for the consequences of some action on the social system. 
 ---
 
 The reading for this section is: •	Parsons, Talcott and Edward A. Shils. 1951. "Values, Motives and Systems of Action." Pp. 47-275 in Toward a General Theory of Action, edited by Talcott Parsons and Edward A. Shils. Cambridge: Harvard University Press.
@@ -60,13 +60,13 @@ There are a lot of repetitive definitions over the next few pages that I'm not g
 
 What strikes me though is that this is a question of value-orientation on p.59. The value orientations may commit you to certain norms. Parsons is confident this will end up bringing us to some organized set of rules, but it may just as likely be disorganized. But the spread of value orientations is really an empirical system.
 
-<def> Cognitive mode of value-orientation: Thinking carefully about how certain actions fit within categories and standards</def>
-<def> Appreciative mode of value-orientation: Standards about the appropriateness or consistency of something, such as a pattern of gratification (I like this type of music)</def>
-<def> Moral mode of value-orientation: Considering the consequences of actions, and how responsible an individual will feel for the consequences of some action on the social system. </def>
+<def>Cognitive mode of value-orientation: Thinking carefully about how certain actions fit within categories and standards</def>
+<def>Appreciative mode of value-orientation: Standards about the appropriateness or consistency of something, such as a pattern of gratification (I like this type of music)</def>
+<def>Moral mode of value-orientation: Considering the consequences of actions, and how responsible an individual will feel for the consequences of some action on the social system. </def>
 
 
 This mode of theorizing is different from biological thought because we are not concerned about physiological problems. We are all strutured systems operating in structured systems that are relational etierh with respect to other people obviously or within our personality. It is also different from biology because things are not done with respect to survival, but what is appropriate based on cultural values.
 
 
 #### Orientation to the Situation
-What defines orientation to the situation?
+What defines orientation to the situation? This seems like a bunch of relatively obvious statements about how people decideto go about wanting something, such as "narrowing the range of objects wanted, sorting 'appropriate' from 'inappropriate' goal objects, and deciding whether the alternatives are moral or not.
