@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Melvin Seeman"
+title:  "Melvin Seeman - Alienation"
 date:   2017-07-18 17:50:00
 categories: ['Marx','Work QE','Reading Notes','Alienation','Annual Review']
 published: true
