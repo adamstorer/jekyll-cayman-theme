@@ -58,4 +58,4 @@ For instance, if the masses tae the political prestige of the nation as importan
 
 National solidarity is based mostly around some idea of a nation, or trying to make sense of some national sentiments with respect to the sentiments of others. People see the significance of the nation as tied to some idea of superiority of the values of their group in contrast to those of some other group.
 
-Whatever the nation is, it seems to be really a political idea that brings people together. Sometimes popular language plays a role. 
+Whatever the nation is, it seems to be really a political idea that brings people together. Some poepular language often plays a role. 
