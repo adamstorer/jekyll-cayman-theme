@@ -7,9 +7,9 @@ published: true
 Abstract:
 defs_used:
 
-     What are the two parts of suicide: organic-psychic dispositions and the nature of the physical environment. 
+    What are the two parts of suicide: organic-psychic dispositions and the nature of the physical environment. 
     Durkheim's summary of egoistic suicide: We see suicide varies inversely with integration of religious, domestic and political society. Therefore egoistic suicide comes from excessive individualism in the face of the social 
-    What is altruistic suicide?:Sometimes people kill themselves along some particular characterstics, such as getting old and sick, having a spouse die, or having a master die while you're the chief. In these cases, suicide is seen as a duty. But these duties are social construction. It is imposed by society or social ends. In these types of suicides, you are acting altruistically for the group rather than for the self. This suicide can be obligatory, optional or acute. 
+    What is altruistic suicide?: Sometimes people kill themselves along some particular characterstics, such as getting old and sick, having a spouse die, or having a master die while you're the chief. In these cases, suicide is seen as a duty. But these duties are social construction. It is imposed by society or social ends. In these types of suicides, you are acting altruistically for the group rather than for the self. This suicide can be obligatory, optional or acute. 
 
 ---
 
@@ -22,7 +22,7 @@ Three parts to understanding the causes:
 3. What can we say about suicide and its relation to other social facts, and how can we prevent it.
 
 # Book 1 - Extra Social Factors
-<def> What are the two parts of suicide: organic-psychic dispositions and the nature of the physical environment. </def>
+<def>What are the two parts of suicide: organic-psychic dispositions and the nature of the physical environment. </def>
 For organic psychic, we can think of suicide as a disease that one gets. If we want to say that, then every suicide is just a madman. And this doesn't make sense, and how could you ever draw out social influence from suicide?
 
 Some kind of mental alienation might be happening but how could one prove this?
@@ -62,7 +62,7 @@ But really in the first one we are reacting to impressions of how others will ac
 
 Durkheim seems to think a lot of this imitation talk is really bs due to a strict definition of imitation:
 
-<def>What is imitation for Durkheim?:Imitation exists when the immediate
+<def>What is imitation for Durkheim?: Imitation exists when the immediate
 antecedent of an act is the representation of a like act, previously performed by someone
 else; with no explicit or implicit mental operation which bears upon the intrinsic nature of
 the act reproduced intervening between representation and execution</def>  
@@ -100,7 +100,7 @@ So we must look above individuals to understand the social causes.
 ## Egoistic Suicide
 Religion - Protestants are much more likely to commit suicide. And this somehow relates to the spirit of free inquiry that animates the religion.
 
-<def>Durkheim on Reflection:Reflection develops only if its development becomes imperative, that is,
+<def>Durkheim on Reflection: Reflection develops only if its development becomes imperative, that is,
 if certain ideas and instinctive sentiments which have hitherto
 adequately guided conduct are found to have lost their efficacy. Then
 reflection intervenes to fill the gap that has appeared, but which it has
@@ -139,7 +139,7 @@ But then widows don't kill themselves because they never got too impregnated wit
 ## Altruistic Suicide
 
 
-<def>What is altruistic suicide?:Sometimes people kill themselves along some particular characterstics, such as getting old and sick, having a spouse die, or having a master die while you're the chief. In these cases, suicide is seen as a duty. But these duties are social construction. It is imposed by society or social ends. In these types of suicides, you are acting altruistically for the group rather than for the self. This suicide can be obligatory, optional or acute. </def>
+<def>What is altruistic suicide?: Sometimes people kill themselves along some particular characterstics, such as getting old and sick, having a spouse die, or having a master die while you're the chief. In these cases, suicide is seen as a duty. But these duties are social construction. It is imposed by society or social ends. In these types of suicides, you are acting altruistically for the group rather than for the self. This suicide can be obligatory, optional or acute. </def>
 
 Military suicide is a strange example, here people are integrated (though would not be so in civilian life). You are already putting yo;ur life on the line for society, and this can be taken too intensely (life on the line for individual people?)
 

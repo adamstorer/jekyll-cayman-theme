@@ -11,8 +11,10 @@ defs_used:
 ---
 
 <def>What is meant by politics?: The leadership, or the influencing of the leaership, of a political association, hence today, of a state</def>
+
 What is a state?
-<def>What does the state have control over?:The use of physical force</def>
+
+<def>What does the state have control over?: The use of physical force</def>
 
 Indeed, every state is founded by force.
 >When a question is said
@@ -110,4 +112,3 @@ on the one hand an autonomy of sphere (SCIENCE - there is a tension between valu
 on the other, a sort of objectivity/realism on the other (POLITICS - ethic of ultimate ends and responsibilities, the passion and cause that will inspire others)
 
 He doesn’t have an idea of a world of critical discourse or a world of public spheres/civil society.
- 

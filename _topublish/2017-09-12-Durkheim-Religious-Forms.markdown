@@ -25,7 +25,7 @@ There is  a dichotomy between the notions that facts exist a priori, before huma
 
 We know that there is common ground, a "social" that constructs the boundaries and contours of reason.
 
-<def>Durkheim's combination of apriorists and empiricists:There are facts that are true and irreducible to one another, but the categories individuals use to make sense of those facts are collective, and socially constructed.</def>
+<def>Durkheim's combination of apriorists and empiricists: There are facts that are true and irreducible to one another, but the categories individuals use to make sense of those facts are collective, and socially constructed.</def>
 
 There is a "social" that is above the individual, and it takes a different type of thinking to make sense of this.
 

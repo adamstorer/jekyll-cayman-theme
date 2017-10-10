@@ -7,7 +7,7 @@ published: true
 Abstract:
 defs_used:
 
-    Durkheim's combination of apriorists and empiricists:There are facts that are true and irreducible to one another, but the categories individuals use to make sense of those facts are collective, and socially constructed.
+    Durkheim's combination of apriorists and empiricists: There are facts that are true and irreducible to one another, but the categories individuals use to make sense of those facts are collective, and socially constructed.
     Religion: A combination of beliefs and rites. Beliefs are states of opinion and consist of representation, rites are particular modes of action. These beliefs and actions are developed around the fundamental human categories of sacred and profane, and the particular beliefs deal with what is sacred/profane and the rites determine how to act around the sacred and profane. These things unite people into a moral community (church) that encompasses all those who adhere to the rites and beliefs
     Why are totemic beliefs the center of all religion?: They fill out the definition of religion that Durkheim set forth a priori, and they exist all over the world at very early times. They also contain some parts of what will turn into naturism or animism. 
 
@@ -28,7 +28,7 @@ There is  a dichotomy between the notions that facts exist a priori, before huma
 
 We know that there is common ground, a "social" that constructs the boundaries and contours of reason.
 
-<def>Durkheim's combination of apriorists and empiricists:There are facts that are true and irreducible to one another, but the categories individuals use to make sense of those facts are collective, and socially constructed.</def>
+<def>Durkheim's combination of apriorists and empiricists: There are facts that are true and irreducible to one another, but the categories individuals use to make sense of those facts are collective, and socially constructed.</def>
 
 There is a "social" that is above the individual, and it takes a different type of thinking to make sense of this.
 

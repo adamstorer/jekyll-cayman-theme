@@ -7,7 +7,7 @@ published: true
 defs_used:
 
     What is Bauer's answer to the Jewish Question: Jews renounce judaism, man should renounce religion and thus have emancipation
-    What is Marx's critique of Bauer w.r.t. the jewish question?: "He does not examine the relation between political emancipation and human emancipation."p.30
+    What is Marx's critique of Bauer w.r.t. the jewish question?: He does not examine the relation between political emancipation and human emancipation. p.30
 
 ---
 
@@ -19,9 +19,10 @@ If you are a german jew, and you refuse to be a jew before a german, then you sh
 
 Here Marx turns to a criticism of Bauer, because political emancipation is only one part of the whole.
 <def>What is Bauer's answer to the Jewish Question: Jews renounce judaism, man should renounce religion and thus have emancipation</def>
-<def>What is Marx's critique of Bauer w.r.t. the jewish question?: "He does not examine the relation between political emancipation and human emancipation."p.30</def>
 
-But what are the limits of political emancipation? Man isnot really liberated, only in an abstract and narrow way. WE still have property even if we are politically emancipated, and people legislate mostly to protect their property (or because they have property?), so abolishing property would create more freedom. To bring man back into the community you need more than to make htem political equals, you need to make them equals with respect to property.
+<def>What is Marx's critique of Bauer w.r.t. the jewish question?: He does not examine the relation between political emancipation and human emancipation. p.30</def>
+
+But what are the limits of political emancipation? Man is not really liberated, only in an abstract and narrow way. WE still have property even if we are politically emancipated, and people legislate mostly to protect their property (or because they have property?), so abolishing property would create more freedom. To bring man back into the community you need more than to make them political equals, you need to make them equals with respect to property.
 
 >What prevails in the so-called Christian state is not man but
 alienation . The only man who counts-the King-is specifically differentiated

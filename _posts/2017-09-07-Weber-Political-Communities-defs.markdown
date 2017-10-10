@@ -10,9 +10,9 @@ defs_used:
     Political Community: A community whose social action is aimed at subordinating to orderly domination by the participants a territory and the conduct of persons within it, through readiness to resort to physical force
     Community: A community constitutes more than an economic group, it must share some value systems other than economic goods.
     Power Prestige: The ability to influence how power is wielded gives some kind of prestige
-    "Great Powers": The polities who feel power prestige over large parts of the world.
-    nation (as those who use it mean it):it is proper to expect from certain groups a specific sentiment of solidarity in the face of other groups. Thus, a sphere of values
-    Power:The chance of a man or a number of men to realize their own will in a social action even against the resistance of others who are participating in the action
+    Great Powers: The polities who feel power prestige over large parts of the world.
+    nation as those who use it mean it: it is proper to expect from certain groups a specific sentiment of solidarity in the face of other groups. Thus, a sphere of values
+    Power: The chance of a man or a number of men to realize their own will in a social action even against the resistance of others who are participating in the action
     Status Order: The way in which social honor is distributed in a community between typical groups
     What is a class/class situation?: When people have a specific causal component of their life chances in common, this component is represented exclusively by economic interests, and is represented under the conditions of the commodity or labor markets. p.927
     Status Situation: Every typical component of the life of men that is determined by a specific, positive or negative, social estimation of honor.
@@ -42,7 +42,7 @@ The warrior group may dismantle itself, or it may turn into something larger: a 
 ### Power Prestige and the "Great Powers"
 The ability to change political attitudes about how to influence power is a special kind of prestige that is sometimes the beginning of war. The polities who feel power prestige over the whole word (or individuals?) are the "great powers".  
 <def>Power Prestige: The ability to influence how power is wielded gives some kind of prestige</def>
-<def>"Great Powers": The polities who feel power prestige over large parts of the world.</def>
+<def>Great Powers: The polities who feel power prestige over large parts of the world.</def>
 
 ### Economic Foundations of Imperialism
 Great Powers and economic ability are not necessarily as linked as you might think. Trade also does not determine whether great powers will search for expansion (which is one of the defining aspects of great powers)
@@ -57,19 +57,19 @@ Economic impacts can sometimes make imperialism through war seem undesirable, si
 Sometimes those with power prestige can bring war even when it is economically unviable. The people who seek power prestige are the most likely to bring the idea of a 'state' to bear on other states. Many ideas are privileged within a strata (ideologies, a specific 'culture'). and become codified within the nation.
 
 What is the nation?
-<def>nation (as those who use it mean it):it is proper to expect from certain groups a specific sentiment of solidarity in the face of other groups. Thus, a sphere of values</def>
+<def>nation as those who use it mean it: it is proper to expect from certain groups a specific sentiment of solidarity in the face of other groups. Thus, a sphere of values</def>
 
 National affiliation cannot be broken down into a common bloodline, a common language.
 
 Some people (like communists) consider indifference to national character (and in turn a focus on class) a win.
 
-Weber wants to focus moreo n 'prestige' interests w.r.t the nation. The nation, when juxtaposed with another, is often used to invoke a superiority of culture, or to bring some kind of cultural mission. Those in power invoke the idea of a state, and are focused on a national idea.
+Weber wants to focus more on 'prestige' interests w.r.t the nation. The nation, when juxtaposed with another, is often used to invoke a superiority of culture, or to bring some kind of cultural mission. Those in power invoke the idea of a state, and are focused on a national idea.
 
 ## The distribution of power within the political community: Class, Status, Party
 
 ### Economically Determined Power and the Status Order
 Legal orders effect the distribution of power, including economic power.
-<def>Power:The chance of a man or a number of men to realize their own will in a social action even against the resistance of others who are participating in the action</def>
+<def>Power: The chance of a man or a number of men to realize their own will in a social action even against the resistance of others who are participating in the action</def>
 
 Power may be valued for its own sake, as well as to enrich yourself. Social honor has a strange relationship with economic power, in that purely seeking naked economic power does not grant you social honor, but they are often connected.
 
