@@ -135,7 +135,7 @@ each other, as it were. p. 29
 
 Who is the wanderer who shows up and may or may not stick around? He is fixed in a social circle, but is also separate from it fundamentally. In network type terms, Simmel defines this as:
 
-<def>How does simmel define the stranger?:In the case of the stranger, the union of closeness and remoteness involved in every human relationship is patterned in a way that may be succinctly formulated as follows - the distance within this relation indicates that one who is close by is remote, but his strangeness indicates that one who is remote is near p.143</def>
+<def>How does simmel define the stranger?: In the case of the stranger, the union of closeness and remoteness involved in every human relationship is patterned in a way that may be succinctly formulated as follows, the distance within this relation indicates that one who is close by is remote, but his strangeness indicates that one who is remote is near p.143</def>
 
 Whatever that means! Then Simmel makes a case for what is essentially structural holes, arguing that strangers in new groups bring their strangeness along with them and it makes them better. The Jew is the perennial/classic example of the stranger.
 
