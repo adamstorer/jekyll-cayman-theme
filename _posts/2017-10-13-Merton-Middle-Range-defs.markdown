@@ -77,4 +77,4 @@ Here is Merton's full summary of middle range theory:
 
 8. The middle-range orientation involves the specification of ignorance. Rather than pretend to knowledge where it is in fact absent, it expressly recognizes what must still be learned in order to lay the foundation for still more knowledge. It does not assume itself to be equal to the task of providing theoretical solutions to all the urgent practical problems of the day but addresses itself to those problems that might now be clarified in the light of available knowledge.
 
-Big theories are sometimes thought of as "paradigms" a concept that is more an introduction to the next section, but is interesting as a way of putting together middle ranged theories. 
+Big theories are sometimes thought of as "paradigms" a concept that is more an introduction to the next section, but is interesting as a way of putting together middle ranged theories.
