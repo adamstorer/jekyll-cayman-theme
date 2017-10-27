@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Theory Memo 1"
-date:   2017-09-15 17:50:00
+date:   2017-10-24 17:50:00
 categories: ['Theory QE','Memos']
 published: true
 Abstract:
