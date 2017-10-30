@@ -31,7 +31,7 @@ to resolve the matter p. 4
 
 ## Assumptions and Propositions
 
-![Patterson's Image]({{"/assets/patterson-image.png" | absolute_url}})
+![Patterson's Image]({{"/assets/patterson-image.png" | absolute_url}} =400x)
 
 For Patterson culture is two interconnected components. The basic processes are shared and internally embodied and externally represented. This is the predictable level which human interaction requires to do some sort of shared meaning.
 
