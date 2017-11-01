@@ -43,7 +43,7 @@ Also, culture should be interactional and probabilistic. Also, people do not mak
 
 1. Cultural Knowledge as Shared and Common Meaningful Information - Important here is that it must be shared.
 2. Shared Schemata and Reasonings - The Cognitive Basis of Culture. We've all got to do some categorizing and we really should understand how cognitive processing is important, for instance: Our categories allow us to understand things iwth minimal effort and they give us ready made inferences.This is relatd to our schemata and mental models.
-<def>Schemata for Patterson: "Schemata are mental shortcuts that organize and process incoming information and perceptions in the light of previously stored knowledge structures and processes about given objects, concepts, events, and evaluations."p.10</def>
+<def>Schemata for Patterson: Schemata are mental shortcuts that organize and process incoming information and perceptions in the light of previously stored knowledge structures and processes about given objects, concepts, events, and evaluations.p.10</def>
 <def>Mental Models for Patterson: nonschemataic forms of knowledge which are specific knowledge structures that are constructed to represent a new situation through the use of generic knowledge of space, time, causality, and human intentionality. These are our naive working theories of the world.</def>
 
 Patterson argues mental models are redundant, because if they are SHARED mental maps, they become schemata.
