@@ -28,4 +28,4 @@ So what is it?
 generally increases to the degree that the social circle encompassing
 the individual expands. p.252
 
-Multiple influences means a more individual type of personality. 
+Multiple influences means a more individual type of personality. As more individuals enter a relatively similar group, they begin to differentiate, particularly as a means to survive. This is basically a recapitulation of Durkheim's argument in DoL. These human formations all together end up becoming similar. This is also kind of like Bureaucracy in Weber. 
