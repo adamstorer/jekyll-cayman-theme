@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Swidler - Culture in Action"
+title: "Swidler - Culture in Action"
 date:   2017-11-3 17:50:00
 categories: ['Swidler','Culture QE','Reading Notes']
 published: true
-Abstract: "Culture influences action not by providing the ultimate values towards which action is oriented, but by shaping a repertoire or "tool kit" of habits, skills, and styles from which people construct strategies of action. Two models of cultural influence are developed, for settled and unsettled cultural periods. In settled periods, culture independently influences action, but only by providing resources from which people can construct diverse lines of action. In unsettled periods, explicit ideologies directly govern action, but structural opportunities for action determine which among competing ideologies survive in the long run. This alternative view of culture offers new opportunities for systematic, differentiated arguments about culture's causal role in shaping action."
+Abstract: "Culture influences action not by providing the ultimate values towards which action is oriented, but by shaping a repertoire or tool kit of habits, skills, and styles from which people construct strategies of action. Two models of cultural influence are developed, for settled and unsettled cultural periods. In settled periods, culture independently influences action, but only by providing resources from which people can construct diverse lines of action. In unsettled periods, explicit ideologies directly govern action, but structural opportunities for action determine which among competing ideologies survive in the long run. This alternative view of culture offers new opportunities for systematic, differentiated arguments about culture's causal role in shaping action."
 defs_used:
 
 
