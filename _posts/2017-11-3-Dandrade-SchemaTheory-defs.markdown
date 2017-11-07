@@ -2,7 +2,7 @@
 layout: post
 title:  "D'Andrade - Growth of Schema Theory"
 date:   2017-11-3 17:50:00
-categories: ['D'Andrade','Culture QE','Reading Notes']
+categories: ["D'Andrade","Culture QE","Reading Notes"]
 published: true
 Abstract:
 defs_used:
