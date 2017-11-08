@@ -2,7 +2,7 @@
 layout: post
 title:  "Ben Shestakofsky - Working Algorithms"
 date:   2017-10-20 17:50:00
-categories: ['JMPT','Shestakofsky'']
+categories: ['JMPT','Shestakofsky']
 published: true
 Abstract:
 defs_used:
