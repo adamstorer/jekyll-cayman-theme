@@ -28,4 +28,14 @@ So what is it?
 generally increases to the degree that the social circle encompassing
 the individual expands. p.252
 
-Multiple influences means a more individual type of personality. As more individuals enter a relatively similar group, they begin to differentiate, particularly as a means to survive. This is basically a recapitulation of Durkheim's argument in DoL. These human formations all together end up becoming similar. This is also kind of like Bureaucracy in Weber. 
+Multiple influences means a more individual type of personality. As more individuals enter a relatively similar group, they begin to differentiate, particularly as a means to survive. This is basically a recapitulation of Durkheim's argument in DoL. These human formations all together end up becoming similar. This is also kind of like Bureaucracy in Weber.
+
+>This likening will come about if for no other reason than because
+even within very diverse groups, the forms of social differentiation
+are identical or approximately the same. What I have in
+mind here are such forms as the relational pattern of simple competition,
+the alliance of many who are weak against one who is
+strong, the pleonexy of lone individuals, the progression in which
+relationships among individuals, once initiated, become stabilized,
+the attraction or repulsion that arises between individuals by virtue
+of their qualitative differentiation, and so on. p.253

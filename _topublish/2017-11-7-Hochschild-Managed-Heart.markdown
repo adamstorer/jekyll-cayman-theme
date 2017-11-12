@@ -2,7 +2,7 @@
 layout: post
 title:  "Hochschild - The Managed Heart"
 date:   2017-11-7 17:50:00
-categories: ['Hochschild','Culture QE','Reading Notes']
+categories: ['Hochschild','Work QE','Reading Notes']
 published: true
 Abstract:
 defs_used:
