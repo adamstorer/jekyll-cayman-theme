@@ -18,4 +18,9 @@ There's some skill biased technological change and import competition. Workers a
 
 But at the same time there are less surplus with which to reward their workers than previously. For instance in one case WalMart had tons of pressure over warehouse workers.
 
-Social distance of outside buyers like walmart can make demands on workers. There is also some insulation of worker power. The suppliers are so dependent 
+Social distance of outside buyers like walmart can make demands on workers. There is also some insulation of worker power. The suppliers are so dependent
+
+About 10% of of wage stagnation can be attributed to increases in buyer power
+
+(If the share of revenue from dominant buyers decreased over time, would you expect workers to be paid more?) Is this two way, in that wages would decompress?
+Does buy power ever decrease and what happens to wages in these settings?
