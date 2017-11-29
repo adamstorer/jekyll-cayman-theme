@@ -156,7 +156,7 @@ evidence as long as I do not encounter the other face to face. p.44
 
 
 There are also modes of understanding others, and these are called "typificatory schemes"
-That is, they are  a man, a europen, a smart.
+That is, they are  a man, a european, a smart.
 
 There are continuums of typifications that varay with respect to how close we are to a person.
 
@@ -302,4 +302,210 @@ one properly speak of a social world. p.79
 
 The three types of dialectical momentsare - society is human, society is object, man is social.
 
-We need our institutions to be integrated with one another so that individuals can make sense of their life history as meaningful in some way. 
+We need our institutions to be integrated with one another so that individuals can make sense of their life history as meaningful in some way. This is separate from some sort of larger theoretical notion of how you should work, or some moral construct. This is like, what a utopia would look like. Our institutions constructed and integrated based on a theoretical system.  
+
+
+## Sedimentation and Tradition
+
+People don't think about things, stuff becomes habituated and turns into traditition. Things happen and they become objectivated in signs (like in a story) and then they become part of some tradition, part of some common thought.
+
+>Since human beings are frequently sluggish and forgetful,
+there must also be procedures by which these meanings can be
+reimpressed and rememorized, if necessary by coercive and
+generally unpleasant means. Furthermore, since human beings
+are frequently stupid, instituticnal meanings tend to
+become simplified in the process of transmission, so that the
+given collection of institutional 'formulae' can be readily
+learned and memorized by successive generations p.87
+
+There is no functionality or consistency in these traditions, institutions, etc. We just do stuff..
+
+## Roles
+
+Institional order comes from the typificiation of roles, so that actors can move between rolse and make sense of everything. This is really a social self, the self that takes on certain roles.
+
+>We can properly begin to speak of roles when this kind of
+typification occurs in the context of an objectified stock of
+knowledge common to a collectivity of actors. Roles are types
+of actors in such a context.37 It can readily be seen that the
+construction of role typologies is a necessary correlate of the
+institutionalization of conduct. Institutions are embodied in
+individual experience by means of roles. p.91
+
+
+Roles arise in the same way as institutions. Roles represent the instituional order.
+
+
+## Scope and Modes of Institutionalization
+
+Not everything is institutionalized. The question is, how general are the social problems/structures that people come into contact with regularly. Insititutions may also diminish
+
+
+I guess the thing is, institutions really are very broad.
+
+>Another consequence of institutional segmentation is the
+possibility of socially segregated sub-universes of meaning.
+These result from accentuations of role specialization to the
+point where role-specific knowledge becomes altogether esoteric
+as against the common stock of knowledge. Such subuniverses
+of meaning may or may not be submerged from the
+common view. p.102
+
+People might claim control over these sub universes. This is WEber technical knowledge, bureaucracy.
+
+
+To what extent is human action understood as non-human. That is, to what extent are things reified: To treat human phenomena as non-human or supra-human. For instance, the reification of roles may bring the person closer to their own aspects of themselves. your identity ven mayb e reified by yourselfor others.
+
+
+# Legitimation
+
+Legitimation isa second order process, produces new meaning that integrate disparate institutional processes.
+
+One must prove that an institiution or institituional order is legitimate to its members practically, and also subjectively meaningful to each individual.
+
+People do shit, it becomes the way things are done, and then people work to make sure this method is seeen as legitimate. You are told why one should do something and why things are what they ar.e
+
+There are different levels of legitimation.
+1. INcipient Legitimation - De facto explanations. You learn that someone is a cousin and you say, ok, this is how things are done.
+2. Rudimentary Explanations - Proverbs, moral maxims, and other simple rules of thumb for explaining why things are done in a certain way, or a deeper understanding of how things are.
+3. Explicit Theories - Comprehensive explanations of how things work.
+4. Symbolic Universes - Bodies of theoretical tradition that integrate different sections of meaning into a totality.
+
+>The symbolic universe is conceived of as the matrix of all
+socially objectivated and subjectively real meanings ; the entire
+historic society and the entire biography of the individual are
+seen as events taking place within this. universe. What is particularly
+important, the marginal situations of the life of the
+individual (marginal, that is, in not being included in the
+reality of everyday existence in society) are also encompassed
+by the symbolic universe. p.114
+
+These are religions that provide deep explanations of how thigns should work. The sybmolic universe assigns status and orders history.
+
+There is more on the symbolic universe that I think I'm not goign to delve real deep into at the moment, but could be worth coming back to. The problem is that the symbolic universe is something separate from people that does not necessarily hold people so strongly. It's clear though that symbolic universes are also things like dictatorship, capitalism, communism, etc. which cannot abide other ways of doing things and have a stake in doing things a specific way.
+
+
+# Society as Subjective Reality
+
+## Internalization of Reality
+
+Remember, socety is:
+>an ongoing dialectical process composed of the three
+moments of externalization, objectivation and internalization. p.149
+
+Individuals externalize their own being in to the social world, internalize it as objective reality. This is a dialectic.
+
+People exist socially and communicate though are not necessarily comletely understood.
+
+The meaning people make is from others.
+
+>in the complex form of internalization, I
+not only 'understand' the other's momentary subjective processes,
+I 'understand' the world in which he lives, and that
+world becomes my own. This presupposes that he and I share
+time in a more than ephemeral way and a comprehensive perspective,
+which links sequences of situations together intersubjectively.
+We now not only understand each other's
+definitions of shared situations, we define them reciprocally.
+A nexus of motivations is established between us and extends
+into the future. Most importantly, there is now an ongoing
+mutual identification between us. We not only live in the same
+world, we participate in each other's being. p.150
+
+Once this happens, we are members of a society.
+
+This is brought about by socialization, which is:
+<def>What is socialization?: The comprehensive and consistent induction of an individual into the objective world of a society or a sector of it.</def>
+
+There is primary socialization in childhood, and secondary socialization afterwards. Primary socialization is more important. People make sense of the world through the filters of significant others as well as objective social structure.
+
+>In other words, the self
+is a reflected entity, reflecting the attitudes first taken by
+significant others towards it ;6 the individual becomes what he
+is addressed as by his significant others. This is not a onesided,
+mechanistic process. It entails a dialectic between
+identification by others and self-identification, between objectively
+assigned and subjectively appropriated identity. The
+dialectic, which is present each moment the individual identifies
+with his significant others, is, as it were, the particularization
+in individual life of the general dialectic of society that has
+already been discussed. p.152
+
+And the identity you have is a product of and part of the social world tha tyou inhabit.
+
+
+Where are belief structures?
+>Primary socialization ends when the concept of the generalized
+other (and all that goes with it) has been established in the
+consciousness of the individual. At this point he is an effective
+member of society and in subjective possession of a self and a
+world. But this internalization of society, identity and reality
+is not a matter of once and for all. p.157
+
+## Secondary Socialization
+
+WE would have only primary socialization if you could get all of knowledge into people's minds before their adults.
+
+Secondary socialization is the internalization of sub-worlds of knowledge based on some subsection of insititutions. That is, this is something like a professional identity.
+
+## Maintenance and Transformation of Subjective Reality
+
+The content that people internalize from society is under constant threat. Society needs to maintain symmetry in order for the world to not fall apart.
+
+Primary socialization creates an inevitable reality. Secondary socialization with its context specific knewledge. This reality is less deeply rooted.
+
+People do two types of reality maintenance.
+1. Routine Maintenance - Embodied routines reaffirm that what we see is real in our eyes. We see people doing things and have our every day life affirmed. Significant others do a lot of this, and insignificant others are a background of reality affirmation.  
+2. Crisis Maintenance - Collective rituals after natural disasters may help with this stuff. These are like situations where an alternative reality becomes present.
+
+>At the same time that the conversatio nal apparatus ongoingly
+maintains reality, it ongoingly modifies it. Items are
+dropped and added, weakening some sectors of what is still
+being taken for granted and reinforcing others. Thus the subjective
+reality of something that is never talked about comes to
+be shaky. p. 173
+
+Everyone wants to steer clear of Belief Structures. Instead people have competing roles that are brought about by routines.
+
+
+How could  a dismantling of social relations take place?
+>A 'recipe' for successful alternation has to include both
+social and conceptual conditions, the social, of course, serving
+as the matrix of the conceptual. The most important social
+condition is the availability of an effective plausibility structure,
+that is, a social base serving as the 'laboratory' of transfo
+rmation. This plausibility structure will be mediated to the
+individual by means of significant others, with whom he must
+establish strongly affective identification. No radical transformation
+of subjective reality (including, of course, identity)
+is possible without such identification, which inevitably replicates
+childhood experiences of emotional dependency on
+significant others p.177
+
+Religions make alternate realities seem possible, they give the meanings behind it.
+
+
+## Internalization and Social Structure
+
+Simply existing in a certain social structure tells you who you are (what roles make sense) and everyone knows who they are supposed to be. Other possibilities arise when you see them, and it is abnormal if you identify with stuff outside of your role. The primacy of role in identifying the social world may be right, but it is a little unclear. s
+
+## Theories about Identity
+
+Social structure specifics create identity types based on, say, geography. These are supposedly enduring and identifiable.
+
+>Problems arising
+out of the dialectic between either subjective identity and
+social identity-assignments, or identity and its biological substratum
+(of which more later), can be classified according to
+theoretical categories - which is, of course, the presupposition
+for any therapy. The psychological theories then serve to
+legitimate the identity-maintenance and identity-repair procedures
+established in the society, providing the theoretical
+linkage between identity and world, as these are both socially
+defined and subjectively appropriated p.197
+
+People have roles, roles have attributes, people take on these attributes.
+
+## Organism and Identity.
+
+Your own body also effects identity in some way. You die at some point, and society has some power over that. Man has instincts and biology that must be overcome by social roles and the attributes they put on you.
