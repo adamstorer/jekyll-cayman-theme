@@ -17,7 +17,7 @@ What is institutionalism?
 In sociology, institutions have been regarded as the basic building blocks of social and political life. But different disciplines see institutions in different ways, and here we are really only focused on organizational analysis.
 
 Economics - Individuals attempt to maximize their behavior over stable and consistent preference orderings, but they do so in the face of cognitive limits. The transaction is the primary unit of analysis.
-
+e
 They seem to use institutions in really different ways, institutions, institutional arrangements, and it is unclear exactly what is meant by the word. But here I think we are talking about something like market places.
 
 Positive Theory of Institutions -political decision making, the way political structures (institutions) shape political outcomes. WHat is this? People also talk about institutions in international relations.
@@ -65,7 +65,7 @@ Institutions also reduce variety, and people in organizations are unreflective, 
 There are not norms and values but taken0for-granted scripts, rules, and classsifications which are the basis of institutions.
 
 Parsons fails to grasp this for the following reasons:
-1. He focused on evaluation to the eclusion of cognitive or cathetic aspects of culture and action-orientation.
+1. He focused on evaluation to the exclusion of cognitive or cathetic aspects of culture and action-orientation.
 2.He implicitly treated action as occuring as if it were the product of a discursively reasoning agent.
 3. He assumed much more stringent requirement for both intra and intersubjective consistency than we see.
 
