@@ -4,7 +4,7 @@ title:  "Zurcher et. al - Value Orientation, Role Conflict, and Alienation From 
 date:   2017-12-13 17:50:00
 categories: ['Zurcher','Work QE','Reading Notes']
 published: true
-Abstract: "Value orientations, as components of both formal organization and individual personality, are central to the dynamics of organizational behavior. The Stouffer-Toby Role Conflict Scale was administered to 230 Mexican, Mexican-American, and Anglo-American bank em- ployees in 13 bank branches, and the results support the hypothesis that the value orientation "particularism" is influenced by cultural background. Since the bank is a universalistically oriented work organization, employee particularism contributes to alienation from work. The results indicated that longevity, level of position, expressed satisfaction with position, and plans to continue working in the bank are negatively related to both particularism and alienation"
+Abstract: "Value orientations, as components of both formal organization and individual personality, are central to the dynamics of organizational behavior. The Stouffer-Toby Role Conflict Scale was administered to 230 Mexican, Mexican-American, and Anglo-American bank em- ployees in 13 bank branches, and the results support the hypothesis that the value orientation particularism is influenced by cultural background. Since the bank is a universalistically oriented work organization, employee particularism contributes to alienation from work. The results indicated that longevity, level of position, expressed satisfaction with position, and plans to continue working in the bank are negatively related to both particularism and alienation"
 defs_used:
 
 
