@@ -2,7 +2,7 @@
 layout: post
 title:  "Laclau and Mouffe - Hegemony and Socialist "
 date:   2018-2-1 17:50:00
-categories: ['Althusser','Theory QE','Reading Notes']
+categories: ['Laclau','Mouffe','Theory QE','Reading Notes']
 published: true
 Abstract:
 defs_used:
