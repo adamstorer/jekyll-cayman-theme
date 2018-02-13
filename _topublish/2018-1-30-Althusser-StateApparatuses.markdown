@@ -114,7 +114,7 @@ the contrary, it is the precondition for any distinction between
 public and private. The same thing can be said from
 the starting-point of our State Ideological Apparatuses. p.144
 
-SInce these things function, in other words, to reproduce ruling class ideology, they are part of the state?
+Since these things function, in other words, to reproduce ruling class ideology, they are part of the state?
 
 Repressive State Apparatuses use physical repression mainly, all others use ideology. Each uses a little of the other.
 

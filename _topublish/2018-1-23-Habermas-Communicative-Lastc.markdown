@@ -168,7 +168,7 @@ trade regulations
 
 But is this really the case? Is a traditioanl form of life possible in capitalism?
 
-In the end we get a loss of freedoma nd a loss of meaning
+In the end we get a loss of freedom and a loss of meaning
 
 >To the extent that methodical-rational conduct of life gets uprooted,
 purposive-rational action orientations become self-sufficient; technically

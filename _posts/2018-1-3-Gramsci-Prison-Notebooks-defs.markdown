@@ -436,7 +436,8 @@ are conscious of its unity and homogeneity, and of the need to organise
 it, but in the case of the wider social group this is not yet so. A second
 moment is that in which consciousness is reached of the solidarity of
 interests among all the members of a social class—but still in the purely
-economic field...A third moment is that in which one becomes
+economic field...
+3. A third moment is that in which one becomes
 aware that one’s own corporate interests, in their present and future
 development, transcend the corporate limits of the purely economic
 class, and can and must become the interests of other subordinate
@@ -445,7 +446,7 @@ decisive passage from the structure to the sphere of the complex
 superstructures; it is the phase in which previously germinated
 ideologies become “party”, come into confrontation and conflict, until
 only one of them, or at least a single combination of them, prevails
-3.The third moment is that of the relation of military forces, which
+The third moment is that of the relation of military forces, which
 from time to time is directly decisive. Here too, two levels can be
 distinguished: the military level in the strict or technical military sense,
 and the level which may be termed politico-military
