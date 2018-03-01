@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Bourdieu - Logic of Practice"
-date:   2018-2-28 17:50:00
+title:  "Bourdieu - Distinction"
+date:   2018-3-1 17:50:00
 categories: ['Bourdieu','Theory QE','Reading Notes']
 published: true
 Abstract:
