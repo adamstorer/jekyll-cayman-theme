@@ -2,7 +2,7 @@
 layout: post
 title:  "Barley - Semiotics and the Study of Occupational and Organizational Cultures"
 date:   2018-3-28 17:50:00
-categories: ['Semiotics','Work QE','Reading Notes']
+categories: ['Barley','Work QE','Reading Notes']
 published: true
 Abstract: "Semiotics offers an approach for researching and analyzing systems of meaning that undergird occupational and or- ganizational cultures. Following a synopsis of semiotic theory, this paper presents data from an ethnosemantic study of a funeral home and demonstrates that semiotically identical codes structure a funeral director's understanding of his various tasks. The analysis not only suggests that semiotic research captures the redundant themes that characterize insiders' interpretations of this workworld, but that it is also sensitive to the mundane, but critical, aspects of a culture. Finally, the study shows how semiotic research can elucidate rules by which members of a work culture consistently and coherently generate meaning"
 defs_used:

@@ -64,4 +64,9 @@ A game stops working when:
 
   There are definitely cliques based on outside characteristics (race, gender, age religioin,common interests) but the companies hope to force a worker to see themselves as an individual, not part of a group.
 
-  Burawoy argues that the attitudes did not match with the behavior. 
+  Burawoy argues that the attitudes did not match with the behavior. And in fact, other aspects of the job lead coworkers to rely on one anoher regardless of their race.
+
+  That is, in some ways outside differences became a tool one could draw upon in order to comment upon power differentials or job based difficulties.
+
+  Burawoy's model is one of RELAtIVE AUTONOMY - that is -
+  >the labor process may itself determine the effect of imported consciousness.
