@@ -260,4 +260,46 @@ numerous factors for its realization. p.167
 
 The idea they are working against is that the body can be controlled to do what the mind wants it to do. THis is an implicit assumption.
 
-But we cannot just confine the body to an instrumental role. 
+But we cannot just confine the body to an instrumental role. BUt the body is not always so compliant with this separate thing the mind.
+
+This does not necessarily mean that the body is "instrumentalized" or "enculturated" in certain ways.
+
+>Action
+theory must therefore concern itself not only with the emergence of
+control of the body but also with the development of abilities to ease
+that control, that is, with intentional reductions in the instrurnentalization
+of the body. p.169
+
+In a sense there is a passive intentionality - where one intentially releases the body form control. For instance, falling asleep. We cannot actively force ourselves to sleep.
+
+This is a kind of interim phase in problem solving behavior - in solvin ga problem one must act not only actively, but also be open to new types of action that result from pre-reflective intentionality of the body.
+
+The body leaves two things uncalrified - which human biological preconditions must obtain in order for action to be psosible. Also, how the actor develops the ways in which his body is subjectively present for him.
+
+>In other words, what is involved is not a dualism of mind and body,
+but two modes of corporeality. 'Man taken as a concrete being is not a
+psyche joined to an organism, but the movement to and fro of
+existence which at one time allows itself to take corporeal form and at
+others moves towards personal acts.'6 p.180
+
+## Primary Sociality
+The last assumption is that there is self-interested autonomous individuals. but people often question this individualism. This is partly broken down because people can anticipate the reactions of others around them.
+
+There is a sense in which Durkheim argues that there is something inherently social in the way individuals interact. Rituals provide such a function in reintegrating the individual with the group and that's why you see people.
+
+# Creative Democracy
+>Three arguments have been put forward to explain why a reconstructive
+introduction of the tacit assumptions found in the various models
+of rational action is necessary.1 Firstly, such an approach was considered
+the only way to prevent action theory from starting with a
+rigid abstraction and thus, secondly, from becoming divorced from
+the situational and biographical context of action. But thirdly, and
+above all, this way of proceeding was seen as the best safeguard
+against another danger: namely that the consideration of human action
+should be forced to adhere to the dictates of a conception of rationality
+to such an extent that the broad spectrum of different phenomena of
+action should appear primarily as examples of a lack of rationality p.196
+
+The creativity of action does not contain a push to fit concepts into themodel .
+
+Instead we try to understand how human action functions, rather than putting them into our model. 
