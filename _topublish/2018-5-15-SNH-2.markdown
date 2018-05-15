@@ -1,0 +1,54 @@
+---
+layout: post
+title:  "SNH Day 2"
+date:   2018-5-15 17:50:00
+categories: ['Bourdieu','Theory QE','Reading Notes']
+published: true
+Abstract:
+defs_used:
+
+
+---
+
+# Network Sampling
+
+How much of the network are we interested in capturing? Just a dyad?  
+* Ego Network
+  - Focal Node and All Directly Connected Alters
+* Sub-Groups
+  - Attribute Based Groups
+* Ego _ N-Steps
+  - Link Tracing
+* Complete Network
+  - The entire population of nodes we have within some boundary
+
+  ## Ego Network Designs
+  * Data - Ego and Alters
+  * Usually start with a name generator - a means for identifying what you're looking for
+  * The important matters question
+
+  ## Complete Network Designs
+  * Identify complete population boundary
+
+  ## Partial Network Designs
+  * Common for hard to identify populations
+    - You start with a sample of seeds, and then turn their named partners to additional respondents.
+
+# GSS PErsonal Networks Name Generator
+People name close to 0, but it seems like people maybe have 290 or more.
+* There are also anme interpreters where we follow up to make sense of the characteristic of the relationships
+* We can think more about the attributes of the alters - if we want to know who they're connected to, we need to get as much info as possible from the respondents.
+* What are the relationships among alters? And then we get deep into that
+* There is something like "Network Canvas" where people can name their friends and how they fit together - but what really does one get out of this?
+
+But how many name generators are we using? There are different types of relationships among students - so this is kind of relational stuff. But we often don't get the kind of stuff that we really want to be getting.
+
+* You can also cap the number of alters? Should you? YOu can create a ceiling or floor effect
+
+* The different size of the alter set that you use can lead to a different interpretation fo th enetwork data
+* Maybe you should ask a lot because when you name you start with a small cluster, and then you get one but not the other
+
+# Other Considerations?
+* Specificity vs Generality Consideration - How specific do you want people to be about the time window? What is the denominator - how many people do you possibly talk with?
+
+* Free Recall vs Roster Based - are you checking off? WHat's the tradeoff?

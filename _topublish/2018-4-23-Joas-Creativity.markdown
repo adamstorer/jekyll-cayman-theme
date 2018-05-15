@@ -302,4 +302,12 @@ action should appear primarily as examples of a lack of rationality p.196
 
 The creativity of action does not contain a push to fit concepts into themodel .
 
-Instead we try to understand how human action functions, rather than putting them into our model. 
+Instead we try to understand how human action functions, rather than putting them into our model.
+
+>every
+action theory that takes basic pragmatist ideas as its point of departure
+must assume that creatively found solutions to the action problem will
+be absorbed into new 'beliefs', or, more precisely, into altered routines.
+This means that even acts of the utmost creativity assume the preexistence
+of a bedrock of underlying routine actions and external
+conditions which are simply taken as given p.197

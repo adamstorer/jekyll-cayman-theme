@@ -363,4 +363,4 @@ A reiteration of conceptions
 7. Constraints to action are associated with structural properties of social systems.
 8. Structural principles specify overall types of society. Closure of societal totalities and social systems is variable. Socieities may  not be easily defined.
 9. Power is important. It is one of several concepts of social science all clustered around the relations of action and strucutre.
-10. There is no aspect of social organization and reproduction which lay actors cannot comprehend and actively incorporate what they do. 
+10. There is no aspect of social organization and reproduction which lay actors cannot comprehend and actively incorporate what they do.
