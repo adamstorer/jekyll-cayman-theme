@@ -4,8 +4,7 @@ title:  "Mohr - Measuring Meaning Structures"
 date:   2017-10-20 17:50:00
 categories: ['Mohr','Culture QE','Reading Notes','Annual Review']
 published: true
-Abstract: "The recent cultural turn in American sociology has inspired a number of more scientifically oriented scholars to study the meanings that are embedded within institutions, practices, and cultural artifacts. I focus here on research that (a) emphasizes institutional (rather than individual) meanings, (b) uses a structural approach to interpretation, and (c) employs formal algorithms or quantitative procedures for reducing the complexity of meanings to
-simpler structural principles. I discuss two core methodological issuesthe assessment of similarities and differences between items in a cultural system and the process by which structure-preserving simplifications are found in the data. I also highlight the importance of two-mode analytic procedures and I review some of the perceived benefits and criticisms of this style of research."
+Abstract: "The recent cultural turn in American sociology has inspired a number of more scientifically oriented scholars to study the meanings that are embedded within institutions, practices, and cultural artifacts. I focus here on research that (a) emphasizes institutional (rather than individual) meanings, (b) uses a structural approach to interpretation, and (c) employs formal algorithms or quantitative procedures for reducing the complexity of meanings to simpler structural principles. I discuss two core methodological issuesthe assessment of similarities and differences between items in a cultural system and the process by which structure-preserving simplifications are found in the data. I also highlight the importance of two-mode analytic procedures and I review some of the perceived benefits and criticisms of this style of research."
 defs_used:
 
 

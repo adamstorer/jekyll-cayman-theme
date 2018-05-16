@@ -1,12 +1,13 @@
 ---
 layout: post
-title:  "SNH Day 2"
+title:  "Network Sampling"
 date:   2018-5-15 17:50:00
-categories: ['Bourdieu','Theory QE','Reading Notes']
+categories: ['SNH']
 published: true
 Abstract:
 defs_used:
 
+    Boundary Specification Problem: In network sampling, which nodes do I want to collect, and which relationships do I want to collect. A realist strategy is to match perceptions of actors. Nominalist would be to define the population from the outside.
 
 ---
 
@@ -52,3 +53,17 @@ But how many name generators are we using? There are different types of relation
 * Specificity vs Generality Consideration - How specific do you want people to be about the time window? What is the denominator - how many people do you possibly talk with?
 
 * Free Recall vs Roster Based - are you checking off? WHat's the tradeoff?
+* If i'm doing a wave or panel based study, what do you do with previous nominations?
+
+# Sampling Boundaries
+<def>Boundary Specification Problem: In network sampling, which nodes do I want to collect, and which relationships do I want to collect. A realist strategy is to match perceptions of actors. Nominalist would be to define the population from the outside.</def>
+
+This is an important problemf or all network sampling designs because we might only ahve certain relationships over others
+
+# Non-Survey Methods
+Take a table and observe kids through te day.
+
+# Evaluating Social Network Data
+* Claude Fisher looked at the important matters question, which moved from teh beginning to the end.
+* How frequent is there agreement in what's going on? - Mos data collection has a window that they're relying on - and the window is open
+ - If ties are discordant, it's unclear what to do. Do you add the tie or get rid of it? Can we estimate the credibility?
