@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "SNH 2nd Notes"
-date:   2018-5-15 17:50:00
+title:  "Statistical Models of Networks"
+date:   2018-5-17 17:50:00
 categories: ['SNH']
 published: true
 Abstract:
@@ -10,7 +10,50 @@ defs_used:
 
 ---
 
-So we can look at heterogeneity (maybe) using the sample - you can use Blau to measure diversity
+# Random Graph Models
+- Whatare we trying to infer to? We aren't doing a sampling inference because we don't have the power, we need to change the question.
+* So, would we see the observed effect if the process generating this effect were random.
+* But also, maybe it is conditionally random. Is it epiphenomenal on neighborhoods or something like that?
+* Let's figure it out through simulation. - But what is the appropriate random null model.
 
-# Whole NEtwork Descriptives?
-* There's never one exact thing, it depends on the theory and mechanism motivating yourq uestion. 
+What is the set of random graphs like my observed graph? Is it the same graphs with the same number of nodes and edges. I'm going ot generat ea possible graph with 1000 nodes and 10,000 networks and see howw e fit. But of ourse there is a ton of possibilities, so you sample.
+
+So it's a bit about shurtcutting and how well you can do things
+
+* IF you take an observed network you can look at the triad census as a way of comparing. Instead of doing it wrong you can hold a bunch of things constant - such as mutual ties.
+
+* Maybe we can compare graphs with the same exact degree distribution - you can do edge-stem sorting.
+* But remember, it's easy to mess up.
+
+* So we need a parametric model rather than a simulation approach.
+
+## QAP Models
+* You can do a random permutation test - non-parametric test wher eyou can define this stuff goin gon and don't require a huge number of assumptions.
+
+
+## Parametric Models
+Check out ERGM's
+
+
+# Diffusion and Peer Influence
+
+There is this idea of "biological diffusion" which is like infection and peer influence which is kind of like some idea of discussion.
+
+So we think about the network in time and how it sets up.
+
+FOr diffusion of something you have to think of two things - efficiency and robustness. Robust spreads are when there are many potential paths and not many bottlenecks.
+
+Exoposure Networks are probably important - the set of things that you can reach - Or the idea of concurrency
+
+Fitbit Friends arral
+
+
+# Peer Effects from Sharique Hassan?
+Peer effects are hard
+Charles Manksy? -
+1. Reflection - REgression specifice influence of A on B, we can't tell the direction
+2. Selection - Who knows how people are connected
+3. Common Shocks - people who are interacton have common contexts and experiences
+Shalizi and Thomas - Homophily and Contagion Are Generically Counfounded
+
+If you can't randonmly induce a tie then does that call into question the validity of network experiments, and findings where you say "there is diffusion but only if they were homophilous"

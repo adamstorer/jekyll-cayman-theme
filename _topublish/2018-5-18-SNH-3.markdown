@@ -1,0 +1,41 @@
+---
+layout: post
+title:  "Stochastic Actor-Oriented Models (SIENA Models)"
+date:   2018-5-18 17:50:00
+categories: ['SNH']
+published: true
+Abstract:
+defs_used:
+
+
+---
+
+Conceptually, what is it that the Siena model can do.
+* IN Add Health we know there's homophily on smoking (or homogeneity)
+  * IT Could be peer influence, or friend selection.
+  * Here's another one - maybe popularity leads to smoking, or smoking enhances popularity
+  * Maybe ties are based on popularity, but also maybe SES stuff, and controlling for other kinds of processes by which selection occurs
+We can use diffusion models to look at diffusion, and understand how network structures change over time.
+
+These types of effects might also accumulate or change over time - look at health disparitie sand how things change over time.
+
+The model tries to produce a network that has a similar network - we try tomodel the process that look at this
+
+
+# General Form of the Model
+
+# Behavior Objective Function
+* Siena Models did not have a behavior function, and were looking only at network change - but it's not too hard to add behavior functions -
+* IF ALL YOURE LOOKING AT IS BEHAVIOR CHANGE THEN YOU SHOULDNT USE A SIENA MODEL - It gets at the endogenous network changeg and CONTROLS FOR SELECTION
+* But our dependent behaviors generally need to be ordinal
+* A siena model is predicting whether or not people move closer to waht one is tied to.
+
+# Estimation
+* Three phases -
+1. Iniialize Starting Values
+2. Use siulations to refine parameter estimates - we run the model multiple times and adjust the parameter values
+3. Add simulations to calculate standard errors based on estimates from phase
+# Post Estimation
+Did we find a model that recreates important statistics at time 2.
+
+# Tom Valente - COntagion and INterpersonal Influence 
